@@ -1,8 +1,16 @@
-# React.js and Tailwind CSS Assignment
+# React.js and Tailwind CSS Task Manager
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A responsive React application using JSX and Tailwind CSS that demonstrates component architecture, state management, hooks, and API integration.
 
-## Assignment Overview
+## Features
+
+- ✨ Modern, responsive UI with Tailwind CSS
+- 🌙 Dark mode support
+- 📝 Task management with local storage persistence
+- 🔄 Integration with JSONPlaceholder API
+- 📱 Mobile-first design
+- 🎨 Customizable UI components
+- 🎯 Custom hooks for data fetching and state management
 
 You will:
 1. Set up a React project with Vite and Tailwind CSS
